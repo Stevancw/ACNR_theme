@@ -38,12 +38,12 @@
 		    		
 		    		<div class="fourcol last">
 		    			<div class="social-icons">
-		    				<a href="#" title="facebook" class="facebook"></a>
-		    				<a href="#" title="twitter" class="twitter"></a>
-		    				<a href="#" title="delicious" class="delicious"></a>
-		    				<a href="#" title="pintrest" class="pintrest"></a>
-		    				<a href="#" title="rss" class="rss"></a>
-		    				<a href="#" title="email" class="email"></a>
+		    				<a href="http://www.facebook.com/pages/ACNR/187100901434330" title="facebook" class="facebook"></a>
+		    				<a href="https://twitter.com/ACNRjournal" title="twitter" class="twitter"></a>
+		    				<!--<a href="#" title="delicious" class="delicious"></a>-->
+		    				<!--<a href="#" title="pintrest" class="pintrest"></a>-->
+		    				<!--<a href="#" title="rss" class="rss"></a>-->
+		    				<a href="Mailto:Rachael@acnr.co.uk" title="email" class="email"></a>
 		    			</div>
 		    		</div>
 		    	</div>
